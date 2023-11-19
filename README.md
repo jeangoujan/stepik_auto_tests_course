@@ -1,4 +1,5 @@
 # stepik_auto_tests_course
 Stepik-Homework
 
-Lorem ipsum dolores
+Lorem ipsum dolores,
+Test test test
